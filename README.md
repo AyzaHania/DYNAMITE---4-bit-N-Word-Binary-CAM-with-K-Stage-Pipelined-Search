@@ -1,12 +1,11 @@
 # DYNAMITE
 ### 4-bit N-Word Binary CAM with K-Stage Pipelined Search
 
-> **University of Cincinnati — Intro to VLSI Design**
-> **Group 10 | December 2025**
+
 
 ---
 
-## What is This?
+
 
 **DYNAMITE** is a fully custom VLSI chip implementing a **Binary Content-Addressable Memory (CAM)**.
 
